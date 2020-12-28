@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[平々凡々]]></title><description><![CDATA[普通のブログ]]></description><link>https://jow9.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 28 Dec 2020 08:56:39 GMT</lastBuildDate><item><title><![CDATA[ぶっちゃけキツかった就活談]]></title><description><![CDATA[はじめに 年末ですね。そして就活シーズンですね。 そんなわけで、私の就活談（愚痴）でも書いてやろうと思います。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[平々凡々]]></title><description><![CDATA[普通のブログ]]></description><link>https://jow9.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 28 Dec 2020 09:13:11 GMT</lastBuildDate><item><title><![CDATA[ぶっちゃけキツかった就活談]]></title><description><![CDATA[はじめに 年末ですね。そして就活シーズンですね。 そんなわけで、私の就活談（愚痴）でも書いてやろうと思います。
 この記事が少しでも、就活に苦しむ方の救いになれば幸いです。 一般就活時代 私は昨年（2019 年）の 10 月頃から就活を始めました。
 10、1…]]></description><link>https://jow9.github.io/Job hunting/</link><guid isPermaLink="false">https://jow9.github.io/Job hunting/</guid><pubDate>Mon, 28 Dec 2020 19:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;はじめに&lt;/h2&gt;
 &lt;p&gt;年末ですね。そして就活シーズンですね。&lt;/p&gt;
@@ -65,7 +65,7 @@ B 社いわく、&lt;em&gt;「プレ最終面接」&lt;/em&gt;だそうです。
 &lt;p&gt;&lt;em&gt;「隠してもしかたないし、正直に言うとね…
 実はその部署、なくなったんだよね」&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;と、お偉い人事の方が顔色を変えて言い放ちました。
-なんか UX デザイナーとかいらない、という話らしいです。
+なんか &lt;em&gt;「UX デザイナーなんていらない」&lt;/em&gt; という話らしいです。
 もう私はなんの面接を受けているのでしょうか？&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;ただの愚痴：なぜこれほど重要なことを黙っていたのでしょうか？
@@ -80,11 +80,10 @@ B 社いわく、&lt;em&gt;「プレ最終面接」&lt;/em&gt;だそうです。
 &lt;h2&gt;事件 6：内定、取り消し&lt;/h2&gt;
 &lt;p&gt;2020 年 7 月 29 日 21 時 13 分、内定取り消し。&lt;/p&gt;
 &lt;p&gt;さんざんな前振りで、当時も漠然とした嫌な予感はありました。
-ここでなんと、2 月に内定ゲットした企業から「内定取り消します」という連絡を受けたのです。&lt;/p&gt;
-&lt;p&gt;流石に焦り、直ぐに連絡を返しましたが電話もメールも返事なし。
+なんとここで、2 月に内定ゲットした企業から「内定取り消します」という連絡を受けました。&lt;/p&gt;
+&lt;p&gt;流石に焦り、直ぐに人事の方に連絡しましたが電話もメールも返事なし。
 数日後、私がお世話になっていたキャリアアドバイザーの方の協力のもと、なんとか連絡がつきました。
-しかし、結果は虚しく…
-学校にも相談しましたが、「一応訴えることもできますよ」と言われたくらいで現実的な解決策なんてありません。&lt;/p&gt;
+しかし、結果は虚しく… 学校に相談しても、「一応訴えることもできますよ」と言われたくらいで現実的な解決策なんて見つかりませんでした。&lt;/p&gt;
 &lt;p&gt;コロナで就活難と言われた年の、もうかなり手遅れな時期に全てを失ったわけです。&lt;/p&gt;
 &lt;h2&gt;Re.ゼロから始める就活生活&lt;/h2&gt;
 &lt;p&gt;本当にこのタイトル通りな状態です。
@@ -98,18 +97,18 @@ B 社いわく、&lt;em&gt;「プレ最終面接」&lt;/em&gt;だそうです。
 &lt;p&gt;&lt;em&gt;「内定取り消してくれて、センキュー！」&lt;/em&gt;&lt;/p&gt;
 &lt;h2&gt;おわりに&lt;/h2&gt;
 &lt;p&gt;私のみっともない愚痴に付き合っていただき、ありがとうございます。&lt;/p&gt;
-&lt;p&gt;私は就活はコロナに面白いくらい振り回されました。
+&lt;p&gt;私は就活は面白いくらい振り回されました。
 でもこんなに振り回されても、実はあまり病むこともなかったんですよね。
 夜もグッスリ眠れました。
-ただ、これは私が少し異常だっただけだと思いますし。
-今思えばどうして乗り越えられたか分かりません。
-なんというか、 2 回目の就活は本当に負ける気がしなかったんですよね。&lt;/p&gt;
+ただこれは、私が少し異常だっただけだと思いますし。
+今思えばどうして耐えられたのか分かりません。
+なんというか、 2 回目の就活は開き直りすぎて本当に負ける気がしなかったんですよね。&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;「俺を落とせるやつ、でてこいや！」&lt;/em&gt;みたいな感じでしたし&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;「落ちたくても落ちられないんだけど www」&lt;/em&gt;って感じでした。&lt;/p&gt;
 &lt;p&gt;完全に調子に乗ってましたね…&lt;/p&gt;
 &lt;p&gt;これから就活する人もいると思いますが、
 私のように、起きてからではどうしようもない事件が起こるかもしれません。
-今回話に出てきた企業はいわゆる「上場企業」と言われる企業だったりしたのですが、そんな彼らでもやるときはやってきます。&lt;/p&gt;
+今回話に出てきた企業はいわゆる&lt;em&gt;「上場企業」&lt;/em&gt;と言われる企業だったりしたのですが、そんな彼らでもやるときはやってきます。&lt;/p&gt;
 &lt;p&gt;私からアドバイスできることがあるとすれば、&lt;em&gt;「開き直りは強い」&lt;/em&gt;くらいです。
 当時の私は開き直りのプロであり、内面では全部誰かのせいにして、言い訳して、悪くない風を装っていました。
 私自身にも反省すべきところは無数にありましたが、考えないようにしていました。
